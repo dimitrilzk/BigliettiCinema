@@ -1,0 +1,52 @@
+﻿body {
+    background-color: antiquewhite;
+}
+h1 {
+    text-align:center;
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.inputs {
+    display: flex;
+    justify-content: center;
+}
+.dropdwn {
+    display: flex;
+    justify-content: center;
+}
+#DropDownList1{
+    padding: 10px;
+    border-radius: 10px
+}
+#Button1 {
+    text-align:center;
+    background-color:red;
+    padding: 5px;
+    border-radius:5px;
+}
+.btn {
+    margin-top:20px;
+    display: flex;
+    justify-content: center;
+}
+.info {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-inline: 400px;
+    margin-top: 20px;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.info div {
+    border: 1px solid black;
+    border-radius:5px;
+    margin-bottom:5px;
+    margin-inline:50px;
+}
+
